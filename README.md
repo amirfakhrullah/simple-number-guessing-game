@@ -7,7 +7,6 @@ A simple game using HTML and Javascript
 ## Technologies
 
 * Javascript
-* Node.js
 * HTML
 * CSS
 
